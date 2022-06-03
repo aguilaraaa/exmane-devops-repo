@@ -1,0 +1,6 @@
+---
+# defaults file for wordpress
+wp_site_title: terraform
+wp_site_user: admin
+wp_site_password: admin1
+wp_site_email: 22002647@galileo.edu

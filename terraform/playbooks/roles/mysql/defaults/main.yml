@@ -1,0 +1,5 @@
+---
+# defaults file for mysql
+wp_mysql_db: ejercicio1
+wp_mysql_user: examen1
+wp_mysql_password: examen1
